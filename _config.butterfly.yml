@@ -34,8 +34,8 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-   fab fa-github: https://github.com/kyire666 || Github
-   fas fa-envelope: mailto:kyire666@outlook.com || Email
+   fab fa-github: https://github.com/Kyire6 || Github
+   fas fa-envelope: mailto:Kyire6@outlook.com || Email
 
 # search (搜索)
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系統
@@ -661,7 +661,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/kyire666
+      link: https://github.com/Kyire6
   card_announcement:
     enable: true
     content: 欢迎留言交流
