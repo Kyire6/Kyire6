@@ -29,9 +29,9 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   
 - 🌱 Learning all about:
+  ![DevOps](https://img.shields.io/badge/-DevOps-black?style=plastic&logo=AzureDevOps) 
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
   ![Hexo](https://img.shields.io/badge/-Hexo-black?style=plastic&logo=Hexo) 
-  ![DevOps](https://img.shields.io/badge/-DevOps-black?style=plastic&logo=AzureDevOps) 
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 
 <div style="display: inline">
