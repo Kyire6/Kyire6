@@ -9,27 +9,28 @@
 
 - 📝 I regulary write articles on [Kyireの小站](https://blog.wangboweb.site)
 
-- 📫 How to reach me **bo.kyire666@outlook.com**
+- 📫 How to reach me **kyire666@outlook.com**
 
 - 🏢 I'm currently working at **Vansys Software**
 
 - 🚀 I use daily:
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+  ![Java](https://img.shields.io/badge/-Java-black?style=plastic&logo=java)
+  ![Spring](https://img.shields.io/badge/Spring-white?style=plastic&logo=Spring)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-  ![Next.js](https://img.shields.io/badge/next.js-red?style=plastic&logo=appveyor)
-  ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=plastic&logo=Vue.js)
 - 💻 I work using:
-  ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
+  ![Apache Maven](https://img.shields.io/badge/-Maven-black?style=plastic&logo=ApacheMaven)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   
 - 🌱 Learning all about:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
-  ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) 
-  ![Next.js](https://img.shields.io/badge/-Next.js-black?style=plastic&logo=Next.js)
+  ![Hexo](https://img.shields.io/badge/-Hexo-black?style=plastic&logo=Hexo) 
+  ![DevOps](https://img.shields.io/badge/-DevOps-black?style=plastic&logo=AzureDevOps) 
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 
 <div style="display: inline">
