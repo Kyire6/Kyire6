@@ -16,7 +16,7 @@
 - 🚀 I use daily:
   ![MySQL](https://img.shields.io/badge/-MySQL-white?style=plastic&logo=MySQL)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-  ![Spring](https://img.shields.io/badge/Spring-white?style=plastic&logo=Spring)
+  ![Spring](https://img.shields.io/badge/Spring-black?style=plastic&logo=Spring)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=plastic&logo=Vue.js)
 - 💻 I work using:
