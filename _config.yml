@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Kyire的个人博客  #标题
+title: Kyire の Blog  #标题
 subtitle: 记录美好生活 #副标题
 description: 一枚程序猿，记录平时工作学习中点点滴滴 #描述
 keywords:  博客,日志  #网站关键词
@@ -85,7 +85,6 @@ search:
   path: search.xml
   field: post
   content: true
-  template: ./search.xml
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
 meta_generator: true

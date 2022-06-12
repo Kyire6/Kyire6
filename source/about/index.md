@@ -2,9 +2,11 @@
 title: 关于我
 date: 2020-02-02 22:24:00
 comments: false
+top_img: false
 ---
 一枚在职程序猿，努力学习中，博客文章多为笔记类型为主，方便以后的查阅学习，希望这些文章能帮到更多的开发者。
-{ % note success % }
+{% note success %}
 **本站所有的文章都可以转载，但请注明出处，谢谢！！**
 **联系邮箱：2362766003@qq.com**
-{ % endnote % }
+{% endnote %}
+

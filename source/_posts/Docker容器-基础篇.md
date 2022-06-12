@@ -8,7 +8,7 @@ top: 1
 cover: 'https://my-typora-oss.oss-cn-shanghai.aliyuncs.com/image-master/20211212170545.png'
 abbrlink: e33c148b
 date: 2021-12-12 16:25:44
-updated: 2022-01-05 00:50:38
+updated: 2022-06-08 18:56:24
 ---
 
 # Docker 容器-基础篇
@@ -917,7 +917,7 @@ elasticsearch         7.6.2     f29a1ee41030   21 months ago    791MB
 
 本地镜像发布到阿里云流程
 
-![image-20220604164136425](C:/Users/ya'ya/AppData/Roaming/Typora/typora-user-images/image-20220604164136425.png)
+![image-20220604164136425](https://my-typora-oss.oss-cn-shanghai.aliyuncs.com/image-master/20220612132649.png)
 
 
 
