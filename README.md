@@ -14,13 +14,14 @@
 - 🏢 I'm currently working at **Vansys Software**
 
 - 🚀 I use daily:
-  ![Java](https://img.shields.io/badge/-Java-black?style=plastic&logo=java)
-  ![Spring](https://img.shields.io/badge/Spring-white?style=plastic&logo=Spring)
+  ![MySQL](https://img.shields.io/badge/-MySQL-white?style=plastic&logo=MySQL)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+  ![Spring](https://img.shields.io/badge/Spring-white?style=plastic&logo=Spring)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=plastic&logo=Vue.js)
 - 💻 I work using:
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
+  ![Oracle](https://img.shields.io/badge/-Oracle-red?style=plastic&logo=Oracle)
   ![Apache Maven](https://img.shields.io/badge/-Maven-black?style=plastic&logo=ApacheMaven)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
