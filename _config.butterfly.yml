@@ -424,9 +424,9 @@ ghbdage:
     - link: https://www.jsdelivr.com/
       shields: https://img.shields.io/badge/CDN-jsDelivr-orange?style=flat&logo=jsDelivr
       message: 本站使用JsDelivr为静态资源提供CDN加速
-    #- link: https://vercel.com/
-    #  shields: https://img.shields.io/badge/Hosted-Vercel-brightgreen?style=flat&logo=Vercel
-    #  message: 本站采用双线部署，默认线路托管于Vercel
+    - link: https://vercel.com/
+      shields: https://img.shields.io/badge/Hosted-Vercel-brightgreen?style=flat&logo=Vercel
+      message: 本站采用双线部署，默认线路托管于Vercel
     - link: https://gitee.com/
       shields: https://img.shields.io/badge/Source-Gitee-%23c5352a?style=flat&logo=Gitee
       message: 本站项目由Gitee托管
