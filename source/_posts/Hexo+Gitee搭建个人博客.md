@@ -2,7 +2,7 @@
 title: Hexo+Gitee搭建个人博客
 tags:
   - 笔记
-  - 教程
+  - Hexo
 categories: Hexo
 declare: true
 cover: https://my-typora-oss.oss-cn-shanghai.aliyuncs.com/image-master/20211212181408.png
