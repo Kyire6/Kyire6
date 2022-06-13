@@ -127,7 +127,7 @@ word_count: True
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
 - type: git
-  repo: git@gitee.com:Kyire6/Kyire6.git
+  repo: https://github.com/Kyire6/Kyire6-Pages.git
   branch: master
 - type: baidu_url_submitter
   

@@ -860,6 +860,7 @@ css_prefix: true
 inject:
   head:
     - <link rel="stylesheet" href="/self/diy.css">
+    - <meta name="baidu-site-verification" content="code-bBfxYUqtxJ" />
   bottom:
     # - <script src="xxxx"></script>
 
