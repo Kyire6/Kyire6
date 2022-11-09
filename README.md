@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kyire6&label=Profile%20views&color=0e75b6&style=flat" alt="Kyire6" /> </p>
 
-- 📝 I regulary write articles on [Kyireの小站](https://blog.kyire.site)
+- 📝 I regulary write articles on [JJLUOの小站](https://blog.kyire.site)
 
 - 📫 How to reach me **kyire666@outlook.com**
 
